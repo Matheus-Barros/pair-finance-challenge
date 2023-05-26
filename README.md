@@ -1,6 +1,6 @@
 ## Running the docker
 
-To get started run ```docker-compose up --force-recreate --build``` in root directory.
+To get started run ```docker-compose up --force-recreate --build``` in root directory. 
 
 ## Task: Data ETL
 The data generated above needs to be pulled, transformed and saved into a new database
