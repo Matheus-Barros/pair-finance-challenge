@@ -24,6 +24,6 @@ This ETL should live inside the provided docker container and run by the docker-
 command.
 
 ## Script Running
-
+![image](https://github.com/Matheus-Barros/pair-finance-challenge/assets/51465352/221013a5-71d0-4055-b594-f228e573c245)
 
 
